@@ -1,9 +1,0 @@
-fastapi 
-uvicorn 
-supabase 
-pydantic 
-python-dotenv
-pymongo[srv]==3.11 
-passlib 
-python-jose[cryptography]
-bcrypt
